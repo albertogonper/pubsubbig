@@ -1,5 +1,5 @@
 {
-  "name": "PubSubClient",
+  "name": "PubSubClient-BigPayload",
   "author": "knolleary",
   "license": "MIT",
   "version": "2.6.0"
